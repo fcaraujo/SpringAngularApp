@@ -8,9 +8,11 @@ Fullstack Spring Boot RESTful API + Angular Application (made using STS - Sprint
  - FlyWay for Migration
  - Spring DevTools with LiveReload (see http://livereload.com/extensions/)
  - REST requests in VSCode rest-client extension
+ - UI using Angular + TypeScript - AngularCLI
 
 ## Example
-Run application (API Project) then hit http://localhost:8080/api/users
+ - Run application (API Project) then hit http://localhost:8080/api/users.
+ - Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
 
 ## TODOs:
  - Implement Backend unit tests
